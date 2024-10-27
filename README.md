@@ -15,4 +15,4 @@ I = \int{\frac{f(\mathbf x)}{p(\mathbf x)} d \mathbf x} \approx \frac{1}{N}\sum_
 ```
  Ideally, the probability distribution function should resemble the shape of the curve.
 
- <br/> This class was created for use in my [Quantum Monte Carlo Methods](https://github.com/lonelyneutrin0/QMC) repository. 
+ <br/> This class was created for use in my [Quantum Monte Carlo Methods](https://github.com/lonelyneutrin0/QMCGA) repository. 
